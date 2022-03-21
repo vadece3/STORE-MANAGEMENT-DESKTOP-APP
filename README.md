@@ -7,4 +7,5 @@ It containes the following fuctionalities:
 -view details on products present in the store
 -view financial details on each product
 
-The database file is found in the project folder
+The database file is found in the project folder. The file is called abuDB.sql.
+The username is "abustore" and password is "bigman".
